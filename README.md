@@ -68,11 +68,6 @@ Update your DatabaseConnection.java with correct DB credentials.
 
 Running Locally
 
-Clone this repository:
-
-git clone https://github.com/your-username/java-webapp.git
-
-
 Import into Eclipse (as Maven project).
 
 Configure Tomcat server in Eclipse.
