@@ -93,7 +93,7 @@ Configure an RDS MySQL instance and update connection string.
 
 Access the app via your Elastic Beanstalk URL:
 
-http://your-env.us-east-2.elasticbeanstalk.com/login
+AWS Link
 
 Example Login
 
