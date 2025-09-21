@@ -61,7 +61,7 @@ CREATE TABLE users (
 );
 
 INSERT INTO users (username, password, fullname)
-VALUES ('hostedftp', 'money', 'Hosted FTP Tester');
+VALUES ('Username', 'Password', 'Full Name');
 
 
 Update your DatabaseConnection.java with correct DB credentials.
@@ -102,14 +102,14 @@ http://your-env.us-east-2.elasticbeanstalk.com/login
 
 Example Login
 
-Username: hostedftp
+Username: User
 
-Password: money
+Password: Password
 
 After login, you should see:
 
-Welcome, Hosted FTP Tester!
-Login successful for user: hostedftp
+Welcome, User!
+Login successful for user: User
 
 Future Improvements
 
